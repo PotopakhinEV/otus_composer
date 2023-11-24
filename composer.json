@@ -1,0 +1,18 @@
+{
+    "name": "egor-potopakhin/otus-composer",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "EgorPotopakhin\\OtusComposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Потопахин Егор",
+            "email": "potopakhin.ev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
